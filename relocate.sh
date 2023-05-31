@@ -28,6 +28,7 @@ source ~/.zshrc
 echo "Select package version"
 
 nvm list-remote # finding using fzf
+nvm install $SPECIFIED_NODE_VERSION
 
 # get tldr
 npm install -g tldr
