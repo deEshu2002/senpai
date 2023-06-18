@@ -1,0 +1,22 @@
+[/]
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9']
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+audible-bell=false
+background-color='rgb(58,58,58)'
+background-transparency-percent=0
+bold-color='rgb(128,150,136)'
+bold-color-same-as-fg=true
+cursor-blink-mode='system'
+cursor-colors-set=true
+font='FiraCode Nerd Font Medium 12'
+foreground-color='rgb(208,208,208)'
+highlight-background-color='rgb(72,185,199)'
+highlight-colors-set=true
+login-shell=false
+palette=['rgb(54,53,55)', 'rgb(253,97,136)', 'rgb(170,219,125)', 'rgb(255,214,112)', 'rgb(251,151,108)', 'rgb(170,159,239)', 'rgb(122,220,231)', 'rgb(253,249,243)', 'rgb(144,142,143)', 'rgb(253,97,136)', 'rgb(170,219,125)', 'rgb(255,214,112)', 'rgb(251,151,108)', 'rgb(170,159,239)', 'rgb(122,220,231)', 'rgb(253,249,243)']
+text-blink-mode='never'
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=true
+use-transparent-background=false
